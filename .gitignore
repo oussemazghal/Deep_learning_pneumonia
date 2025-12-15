@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Unignore specific file types
+!*.ipynb
+!README.md
+!.gitignore
